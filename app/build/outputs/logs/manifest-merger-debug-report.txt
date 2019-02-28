@@ -54,14 +54,14 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fabr
 		ADDED from /Users/fabricio/Desktop/MyAddressBook-starter/app/src/main/AndroidManifest.xml:21:9-35
 	android:theme
 		ADDED from /Users/fabricio/Desktop/MyAddressBook-starter/app/src/main/AndroidManifest.xml:26:9-40
-activity#com.example.android.myaddressbook.ContactsActivity
+activity#com.example.android.myaddressbook.view.ContactsActivity
 ADDED from /Users/fabricio/Desktop/MyAddressBook-starter/app/src/main/AndroidManifest.xml:27:9-36:20
 	android:label
 		ADDED from /Users/fabricio/Desktop/MyAddressBook-starter/app/src/main/AndroidManifest.xml:29:13-45
 	android:theme
 		ADDED from /Users/fabricio/Desktop/MyAddressBook-starter/app/src/main/AndroidManifest.xml:30:13-56
 	android:name
-		ADDED from /Users/fabricio/Desktop/MyAddressBook-starter/app/src/main/AndroidManifest.xml:28:13-45
+		ADDED from /Users/fabricio/Desktop/MyAddressBook-starter/app/src/main/AndroidManifest.xml:28:13-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/fabricio/Desktop/MyAddressBook-starter/app/src/main/AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
